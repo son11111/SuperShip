@@ -1,0 +1,222 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+  color: #333;
+}
+
+.son {
+  font-weight: bold;
+  color: #a73a3a;
+}
+
+#menu ul {
+  list-style-type: none;
+  background-color: #a73a3a;
+  text-align: center;
+}
+#menu ul li {
+  color: white;
+  display: inline-table;
+  width: 130px;
+  height: 65px;
+  line-height: 65px;
+  font-size: 13px;
+  position: relative;
+}
+#menu ul li a {
+  color: #f1dfdf;
+  text-decoration: none;
+  display: block;
+}
+#menu ul li a:hover {
+  background: #ffffff;
+  color: #a73a3a;
+}
+#menu ul li > .sub-menu {
+  display: none;
+  position: absolute;
+}
+#menu ul li:hover .sub-menu {
+  display: block;
+}
+.bt {
+  background-color: #a73a3a;
+  border-radius: 2px;
+  border-color: #a73a3a;
+}
+.gach1 {
+  background-color: red;
+  width: 100%;
+  height: 1px;
+  margin-top: 20px;
+}
+.anhsps {
+  padding-top: 20px;
+}
+.dndx {
+  width: 340px;
+  height: 385px;
+  background-color: white;
+  margin-right: 2%;
+  margin-top: 5px;
+  margin-left: 500%;
+  margin-bottom: 20%;
+  border-style: solid;
+  border-color: red;
+  border-radius: 1%;
+  border-width: 2px;
+  float: left;
+  margin: 20px;
+}
+.p1 {
+  color: red;
+  margin-left: 27%;
+  margin-top: 7%;
+  font-family: sans-serifs;
+}
+.gach2 {
+  background-color: red;
+  width: 40%;
+  height: 0.5px;
+  margin-left: 30%;
+  margin-top: 10px;
+}
+.gach3 {
+  background-color: red;
+  width: 80%;
+  height: 0.5px;
+  margin-left: 10%;
+  margin-top: 15px;
+}
+.bt2 {
+  background-color: #ed3648;
+  width: 60%;
+  height: 13%;
+  margin-left: 20%;
+  margin-top: 4%;
+}
+.anhdt {
+  width: 60px;
+  height: 50px;
+  margin-left: 40%;
+  margin-top: 7px;
+}
+.sdt {
+  margin-left: 29%;
+  color: #e32b1f;
+  font-size: 25px;
+}
+.gachdut {
+  border: none;
+  border-top: 1px dotted #f00;
+  background-color: #fff;
+  height: 1px;
+  width: 100%;
+  margin-top: 45px;
+}
+.mauchu {
+  color: #e1293d;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-style: Verdana;
+  margin-top: 30px;
+}
+.gachdai {
+  background-color: #f84a4f;
+  width: 30%;
+  height: 1.7px;
+  margin-left: 36%;
+}
+.gachngan {
+  background-color: #f84a4f;
+  width: 25%;
+  height: 1px;
+  margin-left: 38.5%;
+  margin-top: 3px;
+}
+.appstore {
+  width: 150px;
+  height: 40px;
+  margin-top: 30px;
+}
+.taiungdung {
+  width: 100%;
+  height: 40px;
+  border-style: solid;
+  border-radius:0.5px;
+  margin-top: 30px;
+}
+.chutaiungdung{
+    margin-top:7px
+}
+.anhhinhtron {
+   margin-left: 20px;
+}
+.hinhtron {
+    width: 100%;
+    height: 200px;
+    background-color: #ffffff;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.chu {
+    color: #e1293d;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-style: Verdana;
+}
+.gachngansupership {
+background-color: red;
+  width: 35%;
+  height: 0.5px;
+  margin-left: 32%;
+}
+.gachdaisupership{
+  background-color: red;
+  width: 53%;
+  height: 1.5px;
+  margin-left: 23%;
+  margin-top: 2px;
+}
+.anhbieuphidichvu {
+  width: 300px;
+  height:150px;
+  margin-top: 40px;
+}
+.chudichvu {
+  margin-top: 30px;
+}
+.anhvtv {
+  width:240px;
+  height:80px;
+  text-align: center;
+}
+.anhvtv1 {
+  text-align: center;
+  margin-top: 30px;
+}
+.chucongty {
+  color:#66667F;
+  font-family: sans-serif;
+  font-size:15px
+}
+.cacanhcuoi{
+  width:15px;
+  height:12px;
+  margin-left: 5px;
+}
+.duongchucuoi {
+  margin-left: 23px;
+  margin-top: 30px;
+}
+.duongchucuoi1 {
+  margin-left: 40px;
+}
+.duongchucuoi2 {
+  margin-left: 10px;
+  margin-top:30px
+}
